@@ -1,0 +1,9 @@
+id,type,country,gross,watch
+1,anime,Janan,low,yes
+2,science,America,low,yes
+3,anime,America,low,yes
+4,action,America,high,yes
+5,action,China,high,yes
+6,anime,China,low,yes
+7,science,France,low,no
+8,action,China,low,no
